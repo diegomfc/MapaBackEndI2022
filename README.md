@@ -7,7 +7,7 @@ MAPA - SI - PROGRAMAÇÃO BACK END I - 53/2022
 
 
 Recursos utilizados: 
-Neste projeto, foram aplicados os recursos de HTML5, CSS3, Javascript e PHP.
+neste projeto, foram aplicados os recursos de HTML5, CSS3, Javascript e PHP.
 
 Preview do projeto
 
